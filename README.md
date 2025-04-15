@@ -1,6 +1,6 @@
 # 🌃 Surveillance 👁️
 
-![GIF](preview1.gif) 
+![GIF](preview2.gif) 
 
 
 **Surveillance**는 CCTV를 통해 몬스터를 감시하는 **2D 공포 게임**입니다. 
