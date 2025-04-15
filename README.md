@@ -7,7 +7,7 @@
 
 ## 시작하기
 
-1.  **다운로드:** 최신 버전 [여기](https://github.com/goalgoloo1/Surveilance/releases/tag/v1.0.1)
+다운로드는 [여기](https://github.com/goalgoloo1/Surveilance/releases/tag/v1.0.1)
 
 
 ## 특징
