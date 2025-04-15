@@ -9,7 +9,7 @@
 
 ## 시작하기
 
-게임 빌드는 [여기](https://github.com/goalgoloo1/Surveilance/releases/tag/v1.0.1)에서 다운로드가 가능합니다! ✨
+게임 빌드는 [여기](https://github.com/goalgoloo1/Surveilance/releases/tag/v1.0.1)에서 다운로드 가능합니다! ✨
 
 
 ## 특징
