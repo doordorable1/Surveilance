@@ -9,7 +9,7 @@
 
 ## 시작하기
 
-다운로드는 [여기](https://github.com/goalgoloo1/Surveilance/releases/tag/v1.0.1)
+게임 빌드는 [여기](https://github.com/goalgoloo1/Surveilance/releases/tag/v1.0.1)에서 다운로드해주세요.
 
 
 ## 특징
