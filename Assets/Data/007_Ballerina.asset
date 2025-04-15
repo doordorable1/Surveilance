@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e222284f0cebede409bcc088b65a2c78, type: 3}
+  m_Name: 007_Ballerina
+  m_EditorClassIdentifier: 
+  monsterName: SCP_Ballerina
+  num: 7
+  state: 0
+  timeToAnomalous: 10
+  timeToCritical: 100
+  commonSprite: {fileID: 6105774752315034986, guid: 854fb88cb0111484db8b65886634030e, type: 3}
+  anomalousSprite: {fileID: -3877972879424258220, guid: 0bc4cb6f4f4b41048b16a814587176cf, type: 3}
+  criticalSprite: {fileID: 41459653076463896, guid: 53e76dea3b8f1764cb4bc782e30165ae, type: 3}
+  isCheckAnomalous: 0
+  camNum: 2
+  isSlender: 0
+  isGirl: 0

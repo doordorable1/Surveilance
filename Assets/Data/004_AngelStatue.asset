@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e222284f0cebede409bcc088b65a2c78, type: 3}
+  m_Name: 004_AngelStatue
+  m_EditorClassIdentifier: 
+  monsterName: SCP_AngelStatue
+  num: 4
+  state: 0
+  timeToAnomalous: 121
+  timeToCritical: 44
+  commonSprite: {fileID: -4503283239885661415, guid: 4a5f68de46eca7e449183b8c08783a8f, type: 3}
+  anomalousSprite: {fileID: -350187334468808206, guid: a76add8bc98795447bb4c860314f8017, type: 3}
+  criticalSprite: {fileID: 7612751835516149344, guid: e61a6b4d58f2d444e83ebbb7506289c9, type: 3}
+  isCheckAnomalous: 0
+  camNum: 5
+  isSlender: 0
+  isGirl: 0

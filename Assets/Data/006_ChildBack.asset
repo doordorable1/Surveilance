@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e222284f0cebede409bcc088b65a2c78, type: 3}
+  m_Name: 006_ChildBack
+  m_EditorClassIdentifier: 
+  monsterName: SCP_ChildBack
+  num: 6
+  state: 0
+  timeToAnomalous: 10
+  timeToCritical: 90
+  commonSprite: {fileID: -7841040197371656885, guid: b3ad7c50299a4ae40a6e1528593f594d, type: 3}
+  anomalousSprite: {fileID: 1383922592910240692, guid: 23fb5666056aa424f925ccb1464fda91, type: 3}
+  criticalSprite: {fileID: 0}
+  isCheckAnomalous: 0
+  camNum: 3
+  isSlender: 0
+  isGirl: 1
