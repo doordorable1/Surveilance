@@ -19,7 +19,6 @@
 *   🎧 몰입감을 위해 **이어폰 사용을 강력히 권장합니다.**
 
 ## Authors
-KraftonJungle Week04
 
 *   **yhaaan** - [Github](https://github.com/yhaaan)
 *   **minsuk999** - [Github](https://github.com/minsuk999)
