@@ -16,6 +16,10 @@
 
 *   📺 CCTV를 통해 괴물을 모니터링하세요. 
 *   🚨 시스템 오류, 환경 변화, 초자연적 현상 – 위험에 노출되기 전에 신속하게 대응하세요.
-*   🎧 몰입감을 위해 **이어폰 사용을 강력히 권장합니다.** 
+*   🎧 몰입감을 위해 **이어폰 사용을 강력히 권장합니다.**
 
+*   [Github](https://github.com/yhaaan)
+*   [Github](https://github.com/minsuk999)
+*   [Github](https://github.com/vcds1029)
+*   [Github](https://github.com/goalgoloo1)
 
