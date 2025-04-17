@@ -19,9 +19,10 @@
 *   🎧 몰입감을 위해 **이어폰 사용을 강력히 권장합니다.**
 
 ## Authors
+Game Development
 
-*   **yhaaan**[Github](https://github.com/yhaaan)
-*   **minsuk999**[Github](https://github.com/minsuk999)
-*   **vcds1029**[Github](https://github.com/vcds1029)
-*   **goalgoloo1**[Github](https://github.com/goalgoloo1)
+*   **yhaaan** - [Github](https://github.com/yhaaan)
+*   **minsuk999** - [Github](https://github.com/minsuk999)
+*   **vcds1029** - [Github](https://github.com/vcds1029)
+*   **goalgoloo1** - [Github](https://github.com/goalgoloo1)
 
